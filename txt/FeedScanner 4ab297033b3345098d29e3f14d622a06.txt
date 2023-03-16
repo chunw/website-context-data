@@ -1,0 +1,6 @@
+# FeedScanner
+
+Project URL: https://ls.chunwang.me/FeedScanner
+Tags:  Installation, Archive, Browser extension, Creative coding, Interactivity
+
+![https://freight.cargo.site/w/1500/q/75/i/f916c7f5cf6a90739cdae147f3fbde457eb07bae0dbc90ff99c8842fd504d308/Screen-Shot-2021-09-24-at-11.09.23-AM-2.png](https://freight.cargo.site/w/1500/q/75/i/f916c7f5cf6a90739cdae147f3fbde457eb07bae0dbc90ff99c8842fd504d308/Screen-Shot-2021-09-24-at-11.09.23-AM-2.png)
